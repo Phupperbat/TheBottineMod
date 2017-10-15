@@ -1,0 +1,15 @@
+The Bottine Mod is a mod that... adds a spear (and an armor).
+
+Content:
+ - 1 new weapon, the Royal Wyvern spear, which is crafted by using various endgame materials (this will change soon enough)
+ - an armor set, the Royal Wyvern armor.
+ 
+Future content:
+ - a new ore called Lolitium (totally not suspicious)
+
+I will add more content the better I get with C#, but for now I will mostly focus on learning.
+
+Enjoy
+
+- Code written by Phupperbat
+- Sprites by 2grufs

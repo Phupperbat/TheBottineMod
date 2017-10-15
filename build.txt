@@ -1,0 +1,6 @@
+author = Phupperbat
+
+version = 0.1.2
+displayName = The Bottine Mod
+
+homepage = https://forums.terraria.org/index.php?threads/the-bottine-mod.62814/
