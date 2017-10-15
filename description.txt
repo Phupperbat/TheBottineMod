@@ -6,6 +6,7 @@ Content:
  
 Future content:
  - a new ore called Lolitium (totally not suspicious)
+ - a boss, the King Mimic.
 
 I will add more content the better I get with C#, but for now I will mostly focus on learning.
 
