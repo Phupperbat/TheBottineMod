@@ -26,7 +26,7 @@ namespace TheBottineMod.Items.Armor
 
 		public override void UpdateEquip(Player player)
 		{
-			player.maxRunSpeed += 0.20f;
+			player.moveSpeed += 0.20f;
 		}
 
 		public override void AddRecipes()
