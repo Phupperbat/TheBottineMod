@@ -24,8 +24,8 @@ namespace TheBottineMod.Items.Armor
 		{
 			item.width = 18;
 			item.height = 18;
-			item.value = 10000;
-			item.rare = 9;
+			item.value = 20000;
+			item.rare = 10;
 			item.defense = 45;
 		}
 
@@ -45,11 +45,7 @@ namespace TheBottineMod.Items.Armor
 		public override void AddRecipes()
 		{
 			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.LunarBar, 15);
-			recipe.AddIngredient(ItemID.FragmentVortex, 30);
-			recipe.AddIngredient(ItemID.FragmentNebula, 30);
-			recipe.AddIngredient(ItemID.FragmentSolar, 30);
-			recipe.AddIngredient(ItemID.FragmentStardust, 30);
+			recipe.AddIngredient(null, "LolitiumBar", 15);
 			recipe.AddTile(TileID.LunarCraftingStation);
 			recipe.SetResult(this);
 			recipe.AddRecipe();

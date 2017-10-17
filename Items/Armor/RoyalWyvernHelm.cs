@@ -20,11 +20,16 @@ namespace TheBottineMod.Items.Armor
 		{
 			item.width = 18;
 			item.height = 18;
-			item.value = 10000;
-			item.rare = 9;
+			item.value = 17000;
+			item.rare = 10;
 			item.defense = 30;
 		}
 
+		public override bool DrawHead()
+		{
+			return false;
+		}
+		
 		public override void UpdateEquip(Player player)
 		{
 			player.meleeCrit += 20;
@@ -51,11 +56,7 @@ namespace TheBottineMod.Items.Armor
 		public override void AddRecipes()
 		{
 			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.LunarBar, 5);
-			recipe.AddIngredient(ItemID.FragmentVortex, 10);
-			recipe.AddIngredient(ItemID.FragmentNebula, 10);
-			recipe.AddIngredient(ItemID.FragmentSolar, 10);
-			recipe.AddIngredient(ItemID.FragmentStardust, 10);
+			recipe.AddIngredient(null, "LolitiumBar", 5);
 			recipe.AddTile(TileID.LunarCraftingStation);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
