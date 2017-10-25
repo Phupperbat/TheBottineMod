@@ -9,7 +9,7 @@ Content:
  
 Future content:
  - a fair share of bosses, mainly dragons/true wyverns (when I get better at coding).
- - new enemies, most of them will draw inspiration from Mabinogi
+ - new enemies, most of them will draw inspiration from Mabinogi.
  - more WEAPONS.
 
 I will add more content the better I get with C#, but for now I will mostly focus on learning.
