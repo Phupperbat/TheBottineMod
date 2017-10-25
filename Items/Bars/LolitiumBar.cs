@@ -22,11 +22,7 @@ namespace TheBottineMod.Items.Bars
 		public override void AddRecipes()
 		{
 			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.LunarBar, 1);
-			recipe.AddIngredient(ItemID.FragmentVortex, 3);
-			recipe.AddIngredient(ItemID.FragmentNebula, 3);
-			recipe.AddIngredient(ItemID.FragmentSolar, 3);
-			recipe.AddIngredient(ItemID.FragmentStardust, 3);
+			recipe.AddIngredient(null, "LolitiumOre", 3);
 			recipe.AddTile(TileID.LunarCraftingStation);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
