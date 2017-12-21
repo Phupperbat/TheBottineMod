@@ -1,20 +1,19 @@
-The Bottine Mod is a mod that adds a new endgame ore (and stuff to craft using it).
+The Bottine Mod is a mod that adds a new endgame ore (and stuff to craft using it), along with a lottery item that can be crafted with 1 gold coin.
 
-I AM CURRENTLY LOOKING FOR SPRITERS (AND CODERS), PLEASE PM ME ON THE FORUM IF YOU ARE INTERESTED!
+I AM CURRENTLY LOOKING FOR SPRITERS, PLEASE PM ME ON THE FORUM IF YOU ARE INTERESTED!
 
 Content:
  - a mighty endgame ore, Lolitium! (don't take the name too seriously)
  - a new weapon,  the Royal Wyvern spear.
  - an armor set, the Royal Wyvern armor.
+ - lottery ticket item.
  
 Future content:
  - a fair share of bosses, mainly dragons/true wyverns (when I get better at coding).
  - new enemies, most of them will draw inspiration from Mabinogi.
  - more WEAPONS.
 
-I will add more content the better I get with C#, but for now I will mostly focus on learning.
-
 Enjoy
 
-- Code and (crappy) sprites by Phupperbat
+- Code and (crappy) sprites by Phupperbottine
 - Royal Wyvern armor/spear sprites by 2grufs
